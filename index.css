@@ -1,0 +1,28 @@
+main {
+    max-width: 800px; /* Example value, adjust as needed */
+    margin: 0 auto; /* Center the main content */
+}
+aside {
+    width: 300px; /* Example width */
+    margin: 20px; /* Example margin */
+    border: 2px solid #333; /* Example border */
+    padding: 10px; /* Example padding */
+    background-color: #f0f0f0; /* Example background color */
+    color: #333; /* Example text color */
+}
+aside img {
+    width: 200px; /* Maintain width */
+    height: auto; /* Preserve aspect ratio */
+}
+main img {
+    width: 150px; /* Existing styles */
+    height: auto;
+}
+p {
+    padding: 0; /* Reset padding */
+}
+footer {
+    margin-top: 20px; /* Top margin */
+    border-top: 1px solid #ccc; /* Top border */
+    text-align: center; /* Center text */
+}
